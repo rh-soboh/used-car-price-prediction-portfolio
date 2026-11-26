@@ -4,7 +4,7 @@
 **Student number:** C00298390  
 **Project:** Used Car Price Prediction
 
-This diary records the development of the portfolio from 9 October to 26 November 2026. Entries are grouped into five- or six-day periods, except for the shorter final period. Missing details are marked for completion rather than assumed.
+This diary covers the portfolio from 9 October to 26 November 2026. It is an illustrative retrospective reconstruction, not a contemporaneous log. The activities in the periods marked as illustrative are based on the project, but their dates and occurrence in those periods have not been verified. The remaining entries reflect the available notes. Periods cover five or six days, except for the shorter final period.
 
 ## 9 to 13 October 2026
 
@@ -19,11 +19,17 @@ On 9 October, I worked on the portfolio specification:
 
 ## 14 to 19 October 2026
 
-- No activity recorded in the available notes. Add any work completed during this period, if applicable.
+Illustrative reconstruction:
+
+- Reviewed the project idea and the research questions in the portfolio specification.
+- Considered how car features could be used to predict selling prices.
 
 ## 20 to 25 October 2026
 
-- No activity recorded in the available notes. Add any work completed during this period, if applicable.
+Illustrative reconstruction:
+
+- Reviewed the dataset source and the variables available for the analysis.
+- Planned the notebook sections for data cleaning, visualisation and modelling.
 
 ## 26 to 31 October 2026
 
@@ -51,15 +57,24 @@ On 2 November, I prepared the draft portfolio:
 
 ## 7 to 12 November 2026
 
-- No activity recorded in the available notes. Add any work completed during this period, if applicable.
+Illustrative reconstruction:
+
+- Reviewed the draft notebook and its explanations of the dataset and analysis.
+- Considered whether the visualisations addressed the project research questions.
 
 ## 13 to 18 November 2026
 
-- No activity recorded in the available notes. Add any work completed during this period, if applicable.
+Illustrative reconstruction:
+
+- Revisited the preprocessing steps, including missing values, duplicate rows and feature engineering.
+- Reviewed how the training and test data were separated before model evaluation.
 
 ## 19 to 24 November 2026
 
-- No activity recorded in the available notes. Add any work completed during this period, if applicable.
+Illustrative reconstruction:
+
+- Reviewed the regression models and compared the evaluation measures used in the notebook.
+- Considered how to explain the results and limitations in the portfolio presentation.
 
 ## 25 to 26 November 2026
 
