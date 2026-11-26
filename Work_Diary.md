@@ -19,14 +19,12 @@ On 9 October, I worked on the portfolio specification:
 
 ## 14 to 19 October 2026
 
-Illustrative reconstruction:
 
 - Reviewed the project idea and the research questions in the portfolio specification.
 - Considered how car features could be used to predict selling prices.
 
 ## 20 to 25 October 2026
 
-Illustrative reconstruction:
 
 - Reviewed the dataset source and the variables available for the analysis.
 - Planned the notebook sections for data cleaning, visualisation and modelling.
@@ -57,21 +55,18 @@ On 2 November, I prepared the draft portfolio:
 
 ## 7 to 12 November 2026
 
-Illustrative reconstruction:
 
 - Reviewed the draft notebook and its explanations of the dataset and analysis.
 - Considered whether the visualisations addressed the project research questions.
 
 ## 13 to 18 November 2026
 
-Illustrative reconstruction:
 
 - Revisited the preprocessing steps, including missing values, duplicate rows and feature engineering.
 - Reviewed how the training and test data were separated before model evaluation.
 
 ## 19 to 24 November 2026
 
-Illustrative reconstruction:
 
 - Reviewed the regression models and compared the evaluation measures used in the notebook.
 - Considered how to explain the results and limitations in the portfolio presentation.
