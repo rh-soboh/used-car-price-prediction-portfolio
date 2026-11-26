@@ -4,7 +4,7 @@
 **Student number:** C00298390  
 **Project:** Used Car Price Prediction
 
-This diary records the development of the portfolio. Entries distinguish completed work from planned work so that the log remains accurate.
+This diary records the development of the portfolio. The November sections cover three-day periods. Missing details are marked for completion rather than assumed.
 
 ## Completed entries
 
@@ -34,9 +34,45 @@ This diary records the development of the portfolio. Entries distinguish complet
 
 
 
-## Planned next steps
+### 2 November 2026: Draft portfolio
 
+- Prepared a draft ZIP containing the notebook, dataset and diary.
+- Created a GitHub repository for the portfolio files.
 
-- Add professional LinkedIn, GitHub, or website links if available.
-- Run the complete notebook again after any changes and confirm that all cells execute in order.
-- Practise the presentation and add a diary entry recording feedback or revisions.
+## November work log
+
+### 9 to 11 November 2026
+
+- No activity recorded in the available notes. Add any work completed during this period, if applicable.
+
+### 12 to 14 November 2026
+
+- No activity recorded in the available notes. Add any work completed during this period, if applicable.
+
+### 15 to 17 November 2026
+
+- No activity recorded in the available notes. Add any work completed during this period, if applicable.
+
+### 18 to 20 November 2026
+
+- No activity recorded in the available notes. Add any work completed during this period, if applicable.
+
+### 21 to 23 November 2026
+
+- No activity recorded in the available notes. Add any work completed during this period, if applicable.
+
+### 24 to 26 November 2026
+
+On 26 November:
+
+- Reviewed the assignment brief, the notebook, the dataset and the draft submission files.
+- Checked that the notebook code ran and that the data and saved results were consistent.
+- Converted the notebook's assumed rupee prices to US dollars using a fixed, documented exchange rate, then reran the notebook.
+- Prepared a three-slide presentation and speaker notes using the updated results.
+- Updated the GitHub repository with the current notebook, presentation, requirements and a short README.
+- Used AI assistance for the portfolio review, notebook changes and presentation preparation.
+
+### 27 November 2026: Planned final submission
+
+- Review the final notebook and diary, check the lecturer's submission and AI-use instructions, and submit the required files before the deadline.
+- Update this entry after the work has been completed.
